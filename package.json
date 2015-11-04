@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/svoeller99/karma-test#readme",
   "devDependencies": {
+    "gulp": "^3.9.0",
     "karma": "^0.13.15",
     "karma-chrome-launcher": "^0.2.1",
     "karma-mocha": "^0.2.0",
