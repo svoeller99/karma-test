@@ -9,3 +9,5 @@ var Server = require('karma').Server;
     }, done).start();
   });
 });
+
+gulp.task('default', ['tdd']);
